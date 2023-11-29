@@ -1,0 +1,34 @@
+﻿row_d,order_id,created_at,order_item_id,quantity,cust_id,delivery,order_add_id,item_id,sku,item_name,item_cat,item_size,item_price,add_id,delivery_address1,delivery_address2,delivery_city,delivery_zipcode
+1,109,10-08-2023 13:22,it_001,2,1,1,1,it_001,PIZZ-MARG-R,Pizza-Margherita-Reg,Pizza,Regular,12,1,607 Trails End Road,NULL,Manchester,6042
+2,110,10-08-2023 13:22,it_003,1,2,1,2,it_002,PIZZ-MARG-L,Pizza-Margherita-Large,Pizza,Large,14,2,105 Robinson Lane,NULL,Manchester,6042
+3,111,10-08-2023 13:22,it_001,1,3,1,3,it_003,PIZZ-DIAV-R,Pizza-Diavola-hot-Reg,Pizza,Regular,16,3,75 Valley Road,NULL,Manchester,6042
+4,111,10-08-2023 19:29,it_003,1,3,1,3,it_004,PIZZ-DIAV-L,Pizza-Diavola-hot-Large,Pizza,Large,19,4,56 Real Lambridge Park,NULL,Manchester,6042
+5,112,10-08-2023 19:19,it_019,3,4,0,4,it_005,PIZZ-PARM-R,Pizza-Parmiginana-Reg,Pizza,Regular,15,5,711 Markcob Valley,NULL,Manchester,6042
+6,112,10-08-2023 19:22,it_008,5,4,0,4,it_006,PIZZ-PARM-L,Pizza-Parmiginana-Large,Pizza,Large,18,6,94 Slater Street,NULL,Manchester,6042
+7,112,10-08-2023 19:22,it_020,5,4,0,4,it_007,PIZZ-QUAT-R,Pizza-Quattro-Formaggi-Reg,Pizza,Regular,16,7,159 Adams Street,NULL,Manchester,6042
+8,112,10-08-2023 19:22,it_023,1,4,0,4,it_008,PIZZ-QUAT-L,Pizza-Quattro-Formaggi-Large,Pizza,Large,19,8,26 Pine Street,NULL,Manchester,6042
+9,112,10-08-2023 13:22,it_004,1,4,0,4,it_009,PIZZ-NAPO-R,Pizza-Napolitana-Reg,Pizza,Regular,16,9,99 Downey Valley,NULL,Manchester,6042
+10,113,10-08-2023 13:22,it_008,1,5,1,5,it_010,PIZZ-NAPO-L,Pizza-Napolitana-Large,Pizza,Large,18,10,187 Timroad Drive,NULL,Manchester,6042
+11,113,10-08-2023 13:22,it_009,1,5,1,5,it_011,PIZZ-PEPP-R,Pizza-Pepperoni-Reg,Pizza,Regular,15,11,15 Cambridge Hill,NULL,Manchester,6042
+12,113,10-08-2023 13:22,it_022,2,5,1,6,it_012,PIZZ-PEPP-L,Pizza-Pepperoni-Large,Pizza,Large,17,12,612 Valley View,NULL,Manchester,6042
+13,113,10-08-2023 13:22,it_023,1,5,1,7,it_013,PIZZ-SEAF-R,Pizza-Seafood-Reg,Pizza,Regular,17,13,333 The Original Street,NULL,Manchester,6042
+14,113,10-08-2023 13:22,it_025,3,5,1,7,it_014,PIZZ-SEAF-L,Pizza-Seafood-Large,Pizza,Large,20,14,21 Bunney Store Street,NULL,Manchester,6042
+15,114,10-08-2023 13:22,it_003,1,6,1,6,it_015,PIZZ-HAWA-R,Pizza-Hawalian-Reg,Pizza,Regular,15,15,298 Nexsus Lane,NULL,Manchester,6042
+16,114,10-08-2023 13:22,it_002,1,6,1,6,it_016,PIZZ-HAWA-L,Pizza-Hawalian-Large,Pizza,Large,17,16,546 Sidney Road,NULL,Manchester,6042
+17,114,10-08-2023 13:22,it_010,1,6,1,7,it_017,SIDE-GARL-Bread,Side-Garlic-Bread,Side,Regular,6,17,989 Downey Street,NULL,Manchester,6042
+18,114,10-08-2023 13:22,it_018,1,6,1,7,it_018,SIDE-CHIC-Wings,Side-Chicken-Wings,Side,Regular,7,18,73 Mary Road,NULL,Manchester,6042
+19,114,10-08-2023 13:22,it_020,1,6,1,7,it_019,SIDE-BREA,Side-Breadsticks,Side,Regular,5,19,154 Cliffside Drive,NULL,Manchester,6042
+20,114,10-08-2023 13:22,it_025,1,6,1,8,it_020,SIDE-CAES-Salad,Side-Caesar-Salad,Side,Regular,7,20,25 Concord Road,NULL,Manchester,6042
+21,114,10-08-2023 13:22,it_026,1,6,1,8,it_021,DESS-ICE-CHOC,Dessert-Chocolate-Ice-cream,Dessert,Regular,6,21,94 Slater Street,NULL,Manchester,6042
+22,114,10-08-2023 13:22,it_021,1,6,1,8,it_022,DESS-ICE-VANI,Dessert-Vanilla-Ice-cream,Dessert,Regular,6,22,26 Pine Street,NULL,Manchester,6042
+23,114,10-08-2023 13:22,it_029,1,6,1,9,it_023,DESS-ICE-STRA,Dessert-Strawberry-Ice-cream,Dessert,Regular,6,23,15 Cambridge Hill,NULL,Manchester,6042
+24,115,10-08-2023 13:22,it_001,2,7,1,9,it_024,DESS-ICE-PIST,Dessert-Pistachio-Ice-cream,Dessert,Regular,6,24,21 Bunney Store Street,NULL,Manchester,6042
+25,115,10-08-2023 13:22,it_003,4,7,1,9,it_025,DESS-CHOC-BROW,Dessert-Chocolate-Brownie,Dessert,Regular,5,25,546 Sidney Road,NULL,Manchester,6042
+26,115,10-08-2023 13:22,it_005,2,7,1,10,it_026,DESS-BANO-PIE,Dessert-Banoffee-Pie,Dessert,Regular,7,26,25 Concord Road,NULL,Manchester,6042
+27,115,10-08-2023 13:22,it_027,3,1,1,1,it_027,DESS-FRUI-SALA,Dessert-Fruit-Salad,Dessert,Regular,5,27,105 Robinson Lane,NULL,Manchester,6042
+28,115,10-08-2023 13:22,it_028,3,1,1,10,it_028,BEVA-CC-REG33,Beverage-Coca-Cola,Beverage,33cl,3,28,56 Real Lambridge Park,NULL,Manchester,6042
+29,109,10-08-2023 13:22,it_029,3,2,1,11,it_029,BEVA-CC-BEG1500,Beverage-Coca-Cola,Beverage,1.5cl,6,29,94 Slater Street,NULL,Manchester,6042
+30,109,10-08-2023 13:22,it_030,3,2,1,12,it_030,BEVA-CC-DIE33,Beverage-Diet-Coke,Beverage,33cl,3,30,26 Pine Street,NULL,Manchester,6042
+31,110,10-08-2023 13:22,it_031,5,1,1,14,it_031,BEVA-CC-DIE1500,Beverage-Diet-Coke,Beverage,1.5l,6,31,98 Cafe View ,NULL,Manchester,6042
+32,110,11-08-2023 13:22,it_006,10,3,1,14,it_032,BEVA-7U-REG33,Beverage-7-Up,Beverage,33cl,3,32,92 Sunny Lane,NULL,Manchester,6042
+33,110,12-08-2023 13:22,it_007,10,3,1,17,it_033,BEVA-7U-REG1500,Beverage-7-Up,Beverage,1.5l,6,33,108 Monarch Lane,NULL,Manchester,6042
